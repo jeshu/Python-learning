@@ -6,4 +6,4 @@ person = int(input('How many person to split the bill? '))
 
 result = (bill + (bill*tip/100))/person
 
-print(f'Each person should pay: {"{:.2f}"round(result)}')
+print(f'Each person should pay: {round(result)}')
