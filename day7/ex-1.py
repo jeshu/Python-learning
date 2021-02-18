@@ -1,6 +1,6 @@
 # Hangman
 import random
-from replit import clear
+
 
 def draw_hangman() :
   print('Hangman')
