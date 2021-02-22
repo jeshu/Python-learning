@@ -3,3 +3,4 @@
 Objectives -
 
 1. Function with output
+2. Loops, Flags, Recursions
